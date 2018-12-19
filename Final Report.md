@@ -1,2 +1,4 @@
 # Capston Project for IBM Data Science Professional Certificate
-#### <center>Author: Haroldo Vélez Lora</center>
+<p align="justify">
+  Author: Haroldo Vélez Lora
+</p>
