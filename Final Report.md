@@ -2,7 +2,7 @@
 ### <p align="center"> Author: Haroldo Vélez Lora</p>
 
 
-## I. Introduction/Business Problem
-## II. Data
+## 1. Introduction/Business Problem
+## 2. Data
 
 
