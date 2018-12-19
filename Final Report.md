@@ -1,3 +1,3 @@
 # Capston Project for IBM Data Science Professional Certificate
-## <p align="center"> Author: </p> Haroldo Vélez Lora
+### <p align="center"> Author: Haroldo Vélez Lora</p> 
 <p align="right">[Index](#index)</p>
