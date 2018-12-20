@@ -3,8 +3,7 @@
 
 
 ## 1. Introduction/Business Problem
-In a city of your choice, if someone is looking to open a restaurant, where would you recommend that they open it? Similarly, if a contractor is trying to start their own business, where would you recommend that they setup their office?
-
+<p align="justify">The Recommender Systems (RS) are widely used in applications such as Netflix, Facebook, Instagram, among others. A RS is a system able to recognize patterns in order to make valuable suggestions of related material. Costumers often do not know what specifically want, this along with a RS converge in a bidirectional satisfaction service-costumer.</p>
 
 ## 2. Data
 
