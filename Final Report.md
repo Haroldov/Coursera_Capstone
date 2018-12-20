@@ -1,4 +1,4 @@
-# Capstone Project for Data Science Professional Certificate
+# <p align="center"> Capstone Project for IBM Data Science Professional Certificate </p>
 ### <p align="center"> Author: Haroldo Vélez Lora</p>
 
 
