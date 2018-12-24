@@ -9,4 +9,4 @@
 
 ## 2. Data
 
-
+<p align="justify">For this project the Foursquare API will be used. A list of neighborhoods in New York (https://ibm.box.com/shared/static/fbpwbovar7lf8p5sgddm06cgipa2rxpe.json) and Toronto (https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M) is downloaded and their respective location in longitude and latitude coordinates is obtained. </p>
