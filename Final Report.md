@@ -13,3 +13,5 @@
 
 * New York neighborhoods: https://ibm.box.com/shared/static/fbpwbovar7lf8p5sgddm06cgipa2rxpe.json
 * Toronto neighborhoods: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+
+<p align="justify">The similarities will be determined based on the frequency of the categories found in the neighborhoods. Therefore, the avenues near from those neighborhoods will be downloaded from the Foursquare API and the categories of each avenue will be extracted. Finally, these similarities found are a strong indicator for a user and can help him to decide whether to move in a particular neighborhood near the center of Toronto or not. </p>
