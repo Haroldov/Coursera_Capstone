@@ -15,3 +15,19 @@
 * Toronto neighborhoods: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
 
 <p align="justify">The similarities will be determined based on the frequency of the categories found in the neighborhoods. Therefore, the avenues near from those neighborhoods will be downloaded from the Foursquare API and the categories of each avenue will be extracted. Finally, these similarities found are a strong indicator for a user and can help him to decide whether to move in a particular neighborhood near the center of Toronto or not. </p>
+
+## 3. Methodology
+
+<p align="justify"> Section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, and what machine learnings were used and why. </p>
+
+## 4. Results
+
+ <p align="justify"> Section where you discuss the results.</p>
+
+## 5. Discussion
+
+<p align="justify"> Section where you discuss any observations you noted and any recommendations you can make based on the results.</p>
+
+## 6. Conclusion 
+
+<p align="justify"> Section where you conclude the report.</p>
