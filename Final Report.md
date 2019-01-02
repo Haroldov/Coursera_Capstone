@@ -16,6 +16,8 @@
 
 <p align="justify">The similarities will be determined based on the frequency of the categories found in the neighborhoods. Therefore, the avenues near from those neighborhoods will be downloaded from the Foursquare API and the categories of each avenue will be extracted. Finally, these similarities found are a strong indicator for a user and can help him to decide whether to move in a particular neighborhood near the center of Toronto or not. </p>
 
+HAY QUE ESCRIBIR EL PROCESAMIEPNTO DE LOS DATOS! 
+
 ## 3. Methodology
 
 <p align="justify"> Section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, and what machine learnings were used and why. </p>
