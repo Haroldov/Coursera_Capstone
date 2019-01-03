@@ -14,11 +14,9 @@
 * New York neighborhoods: https://ibm.box.com/shared/static/fbpwbovar7lf8p5sgddm06cgipa2rxpe.json
 * Toronto neighborhoods: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
 
-<p align="justify">The data downloaded are the neighborhoods located in New York and Toronto. Moreover, their specific coordinates are merged. Only Manhattan neighborhoods and boroughs that contain the string "Toronto" are taken into account. A Foursquare API GET request is sent in order to adquire the surrounds venues that are within a radius of 500m. Those venues are grouped by neighborhoods and one hot encoding is used for the categories of each venue.</p>
+<p align="justify">The data downloaded are the neighborhoods located in New York and Toronto. Moreover, their specific coordinates are merged. Only Manhattan neighborhoods and boroughs that contain the string "Toronto" are taken into account. A Foursquare API GET request is sent in order to adquire the surrounds venues that are within a radius of 500m. The data is formated using one hot encoding with the categories of each venue. Then, the venues are group by neighborhoods computing the mean of each feature.</p>
 
-<p align="justify">The similarities will be determined based on the frequency of the categories found in the neighborhoods. Therefore, the avenues near from those neighborhoods will be downloaded from the Foursquare API and the categories of each avenue will be extracted. Finally, these similarities found are a strong indicator for a user and can help him to decide whether to move in a particular neighborhood near the center of Toronto or not. </p>
-
-HAY QUE ESCRIBIR EL PROCESAMIEPNTO DE LOS DATOS! 
+<p align="justify">The similarities will be determined based on the frequency of the categories found in the neighborhoods. These similarities found are a strong indicator for a user and can help him to decide whether to move in a particular neighborhood near the center of Toronto or not. </p>
 
 ## 3. Methodology
 
