@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Coursera Capstone
 Capstone project from IBM data science professional certificate
 
 # Final Report:
