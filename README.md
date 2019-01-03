@@ -5,7 +5,7 @@ Capstone project from IBM data science professional certificate
 https://github.com/Haroldov/Coursera_Capstone/blob/master/Final%20Report.md
 
 # Jupyter Notebook: 
-Nbviewer:
+Nbviewer (**Recommended**):
 * https://nbviewer.jupyter.org/github/Haroldov/Coursera_Capstone/blob/master/CAPP.ipynb
 
 Github:
