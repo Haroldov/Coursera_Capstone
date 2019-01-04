@@ -39,14 +39,21 @@ In the following figure there is a graphical example of how a K-Means algorithm 
 
 ## 4. Results
 
+<p align="justify">Firstly, data is plotted in a geographical map to get a notion of the world location. In the two following images are shown the neighborhoods in Manhattan and Toronto. </p>
 <p align="center">
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/ny_nocl.PNG" width="350" title="hover text">
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/to_nocl.PNG" width="350" title="hover text">
 </p>
 
+<p align="justify">Secondly, the cluster algorithm is implemented. For this purpose, it is necessary to have a prior idea about the number of clusters. Therefore, the mean squared error (MSE) is plotted vs the number of clusters. The number of clusters start with a value of 1 increasing until a value of 10. This chart is shown in the image below. </p>
+
 <p align="center">
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/clustersel.PNG" width="350" title="hover text">
 </p>
+
+As it is expected, the MSE decreases over the number of clusters. The elbow method here is implemented in order to select the appropriate number of groups. In this case, it is possible to see that the elbow is found more or less arround 5. The MSE found below this number shows little changes rather than big ones. Finally, once the number of clusters is fixed, the clustering algorithm is repeated through samples and each neighborhood is labeled according to the clusters found.
+
+For visualization purposes, the geographical data is again plotted but with different colors. Each color represents the cluster for which that neighborhood belongs. This image is shown below.
 
 <p align="center">
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/ny_cl.PNG" width="350" title="hover text">
