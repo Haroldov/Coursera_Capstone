@@ -54,20 +54,20 @@ In the following figure there is a graphical example of how a K-Means algorithm 
 </p>
 
 <p align="center">
-  <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/wafflechart.PNG" width="450" title="hover text">
+  <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/wafflechart.PNG" width="600" title="hover text">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/wordcloud.PNG" width="350" title="hover text">
+  <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/wordcloud.PNG" width="450" title="hover text">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/barchart.PNG" width="350" title="hover text">
+  <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/barchart.PNG" width="600" title="hover text">
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/barchart_nogarden.PNG" width="350" title="hover text">
+  <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/barchart_nogarden.PNG" width="600" title="hover text">
 </p>
 
  <p align="justify"> Section where you discuss the results.</p>
