@@ -26,7 +26,7 @@
 ### 3.2. Unsupervised Learning
 <p align="justify">For the purpose of doing unsupervised learning to found similarities between neighborhoods, a clustering algorithm is implemented. In this case K-Means is used due to its simplicity and its similiraty approach to found patterns. </p>
 
-#### * K-Means:
+* K-Means:
 
 <p align="justify">K-Means is a clustering algorithm. This algorithm search clusters within the data and the main objective function is to minimize the data dispersion for each cluster. Thus, each group found represents a set of data with a pattern inside the muldimensional features. </p>
 
