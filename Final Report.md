@@ -39,6 +39,10 @@ In the following figure there is a graphical example of how a K-Means algorithm 
 
 ## 4. Results
 
+<p align="center">
+  <img src="Images/ny_cl.png" width="350" title="hover text">
+</p>
+
  <p align="justify"> Section where you discuss the results.</p>
 
 ## 5. Discussion
