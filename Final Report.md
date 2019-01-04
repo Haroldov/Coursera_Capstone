@@ -60,9 +60,12 @@ For visualization purposes, the geographical data is again plotted but with diff
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/to_cl.PNG" width="350" title="hover text">
 </p>
 
+In this image it is evident that cluster algorithm is not segmenting the neighborhoods for location areas. This means that it is not true that geolocation of neighborhoods is correlated with the categories of the venues arround each neighborhood. Yet, it is possible to see which neighborhoods within Manhattan, New York are more similar to the neighborhoods within Toronto. Those neighborhoods that are similiar among them belong to the same cluster. Hence, they have the same color in the image above.
+
 <p align="center">
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/wafflechart.PNG" width="600" title="hover text">
 </p>
+
 
 <p align="center">
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/wordcloud.PNG" width="450" title="hover text">
