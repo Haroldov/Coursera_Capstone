@@ -63,13 +63,14 @@ In the following figure there is a graphical example of how a K-Means algorithm 
 
 <p align="justify">In this image it is evident that cluster algorithm is not segmenting the neighborhoods for location areas. This means that it is not true that geolocation of neighborhoods is correlated with the categories of the venues arround each neighborhood. Yet, it is possible to see which neighborhoods within Manhattan, New York are more similar to the neighborhoods within Toronto. Those neighborhoods that are similiar among them belong to the same cluster. Hence, they have the same color in the image above.</p>
 
-<p align="justify">In the image below it is found the proportion of the neighborhoods assigned to each cluster. For this reason a waffle chart is implemented. There are two major clusters and two minor clusters. Moreover, there is a cluster that has only one neighborhood. This neighborhood is .</p>
+<p align="justify">In the image below it is found the proportion of the neighborhoods assigned to each cluster. For this reason a waffle chart is implemented. There are two major clusters and two minor clusters. Moreover, there is a cluster that has only one neighborhood. This neighborhood is Lawrence Park from Toronto. This neighborhood has no similarity with New York city.</p>
 
 
 <p align="center">
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/wafflechart.PNG" width="600" title="hover text">
 </p>
 
+<p align="justify">For practical purposes, a word cloud is shown in the image below. In this way, a person trying to locate a similar neighborhood in Toronto can locate it looking for the neighborhoods with the same color. Here we can se that .</p>
 
 <p align="center">
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/wordcloud.PNG" width="450" title="hover text">
