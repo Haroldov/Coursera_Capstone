@@ -53,6 +53,22 @@ In the following figure there is a graphical example of how a K-Means algorithm 
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/to_cl.PNG" width="350" title="hover text">
 </p>
 
+<p align="center">
+  <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/wafflechart.PNG" width="350" title="hover text">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/worcloud.PNG" width="350" title="hover text">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/barchart.PNG" width="350" title="hover text">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/barchart_nogarden.PNG" width="350" title="hover text">
+</p>
 
  <p align="justify"> Section where you discuss the results.</p>
 
