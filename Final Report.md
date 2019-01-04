@@ -76,12 +76,13 @@ In the following figure there is a graphical example of how a K-Means algorithm 
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/wordcloud.PNG" width="450" title="hover text">
 </p>
 
-<p align="justify">For research purposes,  bar charts are employed to found insights within the clusters. The bar chart that is shown below shows the features with higher frequency in the centroids found by the algorithm. </p>
+<p align="justify">For research purposes,  bar charts are employed to found insights within the clusters. The bar chart that is shown below shows the features with higher frequency in the centroids found by the algorithm. In this way we can learn what the algorithm is finding.</p>
 
 <p align="center">
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/barchart.PNG" width="600" title="hover text">
 </p>
 
+<p align="justify"The image above shows a particular category "garden" with a high frequency of 1. This category is related to the IV cluster, which is the one that has just one neighborhood. This cluster does not add further information. Hence, we can remove it and analyze the other ones. The figure below shows the new bar chart without the IV cluster.</p>
 
 <p align="center">
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/barchart_nogarden.PNG" width="600" title="hover text">
