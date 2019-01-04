@@ -70,11 +70,13 @@ In the following figure there is a graphical example of how a K-Means algorithm 
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/wafflechart.PNG" width="600" title="hover text">
 </p>
 
-<p align="justify">For practical purposes, a word cloud is shown in the image below. In this way, a person trying to locate a similar neighborhood in Toronto can locate it looking for the neighborhoods with the same color. Here we can se that .</p>
+<p align="justify">For practical purposes, a word cloud is shown in the image below. In this way, a person trying to locate a similar neighborhood in Toronto can locate it looking for the neighborhoods with the same color. Here we can see that Chinatown, Roosevelt Island, St James Town and so on belong are similar among them. On the other hand, York ville, Sutton Place, North Midtown and so on are different from those we mentioned earlier but again they are similar among them.</p>
 
 <p align="center">
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/wordcloud.PNG" width="450" title="hover text">
 </p>
+
+<p align="justify">For practical purposes, a word cloud is shown in the image below. In this way, a person trying to locate a similar neighborhood in Toronto can locate it looking for the neighborhoods with the same color. Here we can see that Chinatown, Roosevelt Island, St James Town and so on belong are similar among them. On the other hand, York ville, Sutton Place, North Midtown and so on are different from those we mentioned earlier but again they are similar among them.</p>
 
 <p align="center">
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/barchart.PNG" width="600" title="hover text">
