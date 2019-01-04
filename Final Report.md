@@ -30,6 +30,8 @@
 
 <p align="justify">K-Means is a clustering algorithm. This algorithm search clusters within the data and the main objective function is to minimize the data dispersion for each cluster. Thus, each group found represents a set of data with a pattern inside the muldimensional features. </p>
 
+![alt text](https://cdn-images-1.medium.com/max/1600/1*tWaaZX75oumVwBMcKN-eHA.png)
+
 <p align="justify"> Section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, and what machine learnings were used and why. </p>
 
 ## 4. Results
