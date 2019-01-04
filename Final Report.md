@@ -35,7 +35,7 @@ In the following figure there is a graphical example of how a K-Means algorithm 
   <img src="https://cdn-images-1.medium.com/max/1600/1*tWaaZX75oumVwBMcKN-eHA.png" width="350" title="hover text">
 </p>
 
-<p align="justify"> Section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, and what machine learnings were used and why. </p>
+<p align="justify">It is necessary for this algorithm to have a prior idea about the number of clusters since it is considered an input of this algorithm. For this reason, the elbow method is implemented. A chart that compares error vs number of cluster is done and the elbow is selected. Then, further analysis of each cluster is done. </p>
 
 ## 4. Results
 
