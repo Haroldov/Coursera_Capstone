@@ -76,7 +76,7 @@ In the following figure there is a graphical example of how a K-Means algorithm 
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/wordcloud.PNG" width="450" title="hover text">
 </p>
 
-<p align="justify">For practical purposes, a word cloud is shown in the image below. In this way, a person trying to locate a similar neighborhood in Toronto can locate it looking for the neighborhoods with the same color. Here we can see that Chinatown, Roosevelt Island, St James Town and so on belong are similar among them. On the other hand, York ville, Sutton Place, North Midtown and so on are different from those we mentioned earlier but again they are similar among them.</p>
+<p align="justify">For research purposes,  bar charts are employed to found insights within the clusters. The bar chart that is shown below shows the features with higher frequency in the centroids found by the algorithm. </p>
 
 <p align="center">
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/barchart.PNG" width="600" title="hover text">
