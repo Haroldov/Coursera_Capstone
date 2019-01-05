@@ -88,12 +88,16 @@ In the following figure there is a graphical example of how a K-Means algorithm 
   <img src="https://github.com/Haroldov/Coursera_Capstone/blob/master/Images/barchart_nogarden.PNG" width="600" title="hover text">
 </p>
 
-<p align="justify">It is possible to see that I Cluster focuses on neighborhoods that have around parks, bus lines and sandwich places. On the other hand II cluster focuses on neighborhoods that have around parks, playgrounds and trails. Third (III) Cluster focuses on neighborhoods that have around coffee shops, pubs and italian restaurants. The last (V) cluster focuses on neighborhoods that have around coffee shops, parks and bakeries.</p>
+<p align="justify">It is possible to see that I cluster focuses on neighborhoods that have around parks, bus lines and sandwich places. On the other hand II cluster focuses on neighborhoods that have around parks, playgrounds and trails. Third (III) cluster focuses on neighborhoods that have around coffee shops, pubs and italian restaurants. The last (V) cluster focuses on neighborhoods that have around coffee shops, parks and bakeries.</p>
 
 ## 5. Discussion
 
-<p align="justify"> Section where you discuss any observations you noted and any recommendations you can make based on the results.</p>
+<p align="justify">It is worth to note that this work is useful only for those who live in Manhattan, New York or in the neighborhoods near the center of Toronto. The reason is because there is a limited amount of data we can request using de Foursquare API. Consequently, it will has a greater cost than the Lite version.</p>
+
+<p align="justify">Moreover, there is a cluster with one neighborhood. In the results we found out that this cluster has a frequency of 1 in garden places. This means the cluster is not segmenting correctly data and the centroid is located in the exact position of that neighborhood. This neighborhood has a high frequency of garden places around. Hence, we can say the algorithm is doing great since there is no other cluster with similar venues around.</p>
 
 ## 6. Conclusion 
 
 <p align="justify"> Section where you conclude the report.</p>
+
+<p align="justify">In this work a segmentation between two different countries is done. This segementation involves the neighborhoods in Manhattan, New York and the neighborhoods near to the center of Toronto. The data is downloaded and the venues around the neighborhoods is adquired using the Foursquare API. One Hot Encoding is used for converting the categories of the venues into a feature matrix. Then, all venues are grouped by neighborhoods and at the same time the mean is calculated. Hence, the resulting features used are the frequency of occurrence from each category in a neighborhood.</p>
