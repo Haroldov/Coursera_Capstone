@@ -1,4 +1,4 @@
-# <p align="center"> The Battle of Neighborhoods - Final Report</p>
+# <p align="center"> The Battle of Neighborhoods</p>
 ### <p align="center"> Author: Haroldo Vélez Lora</p>
 
 
