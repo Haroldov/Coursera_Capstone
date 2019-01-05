@@ -101,3 +101,14 @@ In the following figure there is a graphical example of how a K-Means algorithm 
 <p align="justify"> Section where you conclude the report.</p>
 
 <p align="justify">In this work a segmentation between two different countries is done. This segementation involves the neighborhoods in Manhattan, New York and the neighborhoods near to the center of Toronto. The data is downloaded and the venues around the neighborhoods is adquired using the Foursquare API. One Hot Encoding is used for converting the categories of the venues into a feature matrix. Then, all venues are grouped by neighborhoods and at the same time the mean is calculated. Hence, the resulting features used are the frequency of occurrence from each category in a neighborhood.</p>
+
+<p align="justify">The K-Means clustering algorithm is used for finding similiraties between all the neighborhoods listed in the feature matrix. The elbow method is used for selecting the appropriate number of clusters. Hence, the K selected is 5. Results show that there are 2 major groups and 2 minor groups. In adition, there is one group that contains only one neighborhood that is isolated from others. The description of the clusters is the following:</p>
+
+**Cluster**
+* I: Neighborhoods that have around parks, bus lines and sandwich places.
+* II: Neighborhoods that have around parks, playgrounds and trails.
+* III: Neighborhoods that have around coffee shops, pubs and italian restaurants.
+* IV: Neighborhood that have around gardens.
+* V: Neighborhoods that have around coffee shops, parks and bakeries.
+
+Finally, any user who wants to move from manhattan to toronto and viceversa can use this system  to get a notion or idea about what is the best suitable place for him. 
